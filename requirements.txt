@@ -3,4 +3,4 @@ pandas==2.3.2
 numpy==2.3.2
 PyYAML==6.0.2
 streamlit==1.49.1
--e git+https://github.com/DeveloperShiraz/Books-Recommendations.git@725c4951a78586afd8d509805b942be621960905#egg=books_recommender
+-e .
